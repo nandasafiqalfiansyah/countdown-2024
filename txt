@@ -1,5 +1,0 @@
-
-
-taiwin konfiq:
-npm i -D tailwindcss autoprefixer postcss
-npx tailwindcss init -p
